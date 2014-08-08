@@ -1,0 +1,24 @@
+{
+  "name": "fatsticks",
+  "version": "0.0.0",
+  "authors": [
+    "Marco Au <marco.au.321@gmail.com>"
+  ],
+  "main": "index.js",
+  "keywords": [
+    "Marco",
+    "Au"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21"
+  }
+}
